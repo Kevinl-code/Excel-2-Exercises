@@ -1,5 +1,5 @@
 
-                                                        # **Week -2 : Advanced Filtering and Sorting**
+                                                        Week -2 : Advanced Filtering and Sorting
                                                     
 Exercise 1: Filter by Department 'Finance'
 | Employee Name   |   Age | Department   | Region   |
